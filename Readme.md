@@ -9,7 +9,9 @@
 To integrate with Bill 24, you must register as a merchant in Bill 24 by create an account with Bill 24 web application.
 Bill 24 Web Application Address: https://demo.bill24.net
 1. Click on [បង្កើតគណនី] or [Create an account]
- ![alt text](https://s3-ap-southeast-1.amazonaws.com/b24.web-user/screens/Sign_up_01.jpg)
+ 
+ 
+ 	![alt text](https://s3-ap-southeast-1.amazonaws.com/b24.web-user/screens/Sign_up_01.jpg)
 							
 2. Click on [បង្កើតក្រុមហ៊ុន] or [Create Company]
 	
