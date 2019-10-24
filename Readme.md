@@ -9,7 +9,7 @@
    ![Adding Plugin](https://s3-ap-southeast-1.amazonaws.com/b24.web-user/woocommerce_plugin_screens/add_new_plugin.jpg)
 
 ### Setup Plugin
-   Go to Woocommerce -> Settings -> Payments, Then please enable it and click Setup
+   Go to Woocommerce -> Settings -> Payments, Then please enable it and click Setup/Manage
    
    ![Setup Plugin](https://s3-ap-southeast-1.amazonaws.com/b24.web-user/woocommerce_plugin_screens/setup_bill24_woocommerce_plugin_01.jpg)
    
