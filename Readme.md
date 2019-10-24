@@ -3,15 +3,19 @@
 	 
 ### Adding Plugin to Your WooCommerce
    Go to Plugins -> Add New -> Upload Plugins
+   
    Then please upload our plugin which you download from our repository above.
+   
    ![Adding Plugin](https://s3-ap-southeast-1.amazonaws.com/b24.web-user/woocommerce_plugin_screens/add_new_plugin.jpg)
 
 ### Setup Plugin
    Go to Woocommerce -> Settings -> Payments, Then please enable it and click Setup
+   
    ![Setup Plugin](https://s3-ap-southeast-1.amazonaws.com/b24.web-user/woocommerce_plugin_screens/setup_bill24_woocommerce_plugin_01.jpg)
    
    Click Enable this payment gateway, fill in Title and Description, then copy the token from 
 Bill24 (See how to get the token below) and enable test mode if you work on development environment.
+   
    ![Setup Plugin](https://s3-ap-southeast-1.amazonaws.com/b24.web-user/woocommerce_plugin_screens/setup_bill24_woocommerce_plugin_02.jpg)
    
    
