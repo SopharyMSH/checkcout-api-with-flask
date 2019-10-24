@@ -50,5 +50,7 @@ Bill24 (See how to get the token below) and enable test mode if you work on deve
 
    If you want to use Pay Later feature, you can enable webhook in your WooCommerce as below:
    
+   WooCommerce -> Advanced -> Webhooks -> Add Webhook
+   
    ![WooCommerce Webhook](https://s3-ap-southeast-1.amazonaws.com/b24.web-user/woocommerce_plugin_screens/WooCommerce_webhook.jpg)
    
